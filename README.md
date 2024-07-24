@@ -1,1 +1,1 @@
-# mysite-django
+## Django personal blog
